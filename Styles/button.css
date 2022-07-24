@@ -1,5 +1,26 @@
-button {
+.button1, .button2, .button3 {
 
-    background-color: orange;
-    font-size: 18px;
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.button1{
+
+    background-color: azure;
+    color: aqua;
+
+}
+
+.button2{
+
+    background-color: rosybrown;
+    color: aquamarine;
+
+}
+
+.button3{
+
+    background-color: sandybrown;
+    color: forestgreen;
+
 }
